@@ -1,3 +1,4 @@
+//Find sum of all even numbers less than 100
 
 #include <iostream>
 using namespace std;
@@ -14,4 +15,3 @@ int main() {
     return 0;
 }
 
-//Find sum of all even numbers less than 100
